@@ -1,0 +1,6 @@
+{
+  "name": "Echo Clinical Intelligence",
+  "description": "Next-generation EHR intelligence platform featuring patient chart database, handwriting scratchpad digitizer, OCR document scanner, real-time diagnostic decision support, and HIPAA compliance audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

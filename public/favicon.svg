@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <defs>
+    <radialGradient id="favBg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0a1218"/>
+      <stop offset="100%" stop-color="#010305"/>
+    </radialGradient>
+    <linearGradient id="favTeal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#0d9488"/>
+    </linearGradient>
+  </defs>
+  <circle cx="250" cy="250" r="236" fill="url(#favBg)" stroke="url(#favTeal)" stroke-width="24"/>
+  <path d="M 160 375 A 175 175 0 1 1 350 120 A 185 185 0 0 0 135 340 Z" fill="url(#favTeal)"/>
+  <!-- Cross -->
+  <path d="M 374 148 L 374 168 L 354 168 L 354 182 L 374 182 L 374 202 L 388 202 L 388 182 L 408 182 L 408 168 L 388 168 L 388 148 Z" fill="url(#favTeal)"/>
+  <!-- Stylized E -->
+  <path d="M 198 152 C 210 148 245 146 345 146 L 345 190 L 326 190 C 318 174 300 168 280 168 L 256 168 L 256 226 L 310 226 C 328 226 332 238 332 250 C 332 262 328 274 310 274 L 256 274 L 256 312 C 278 312 308 304 330 286 L 345 322 C 310 338 270 340 226 340 C 185 340 180 320 180 290 L 180 188 C 180 162 188 155 198 152 Z" fill="url(#favTeal)"/>
+  <!-- Leaves & Hand -->
+  <path d="M 172 376 C 140 330 120 250 134 208 C 152 232 176 275 174 340 Z" fill="url(#favTeal)"/>
+  <path d="M 184 355 C 162 305 160 255 186 218 C 198 250 206 295 192 345 Z" fill="url(#favTeal)"/>
+  <path d="M 166 385 C 185 410 240 415 270 412 C 310 408 360 385 390 320 C 405 348 370 415 305 432 C 240 448 180 432 152 398 C 148 392 158 376 166 385 Z" fill="url(#favTeal)"/>
+</svg>
